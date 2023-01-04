@@ -15,7 +15,7 @@
     "gatsby": "^2.1.11",
     "gatsby-plugin-create-client-paths": "^2.1.22",
     "gatsby-source-graphql": "^2.0.10",
-    "gatsby-source-strapi": "0.0.10",
+    "gatsby-source-strapi": "3.0.4",
     "react": "^16.8.2",
     "react-dom": "^16.8.2"
   }
